@@ -1,9 +1,7 @@
-# Проекты SeBorgey
-
-Персональный сайт-резюме: [seborgey.github.io](https://github.com/SeBorgey/seborgey.github.io) (размещен на [seborgey.github.io](https://seborgey.github.io/)).
-
 | Проект | Описание |
 | --- | --- |
+| [seborgey.github.io](https://github.com/SeBorgey/seborgey.github.io) | Персональный сайт-резюме NLP-инженера на HTML/CSS (размещен на [seborgey.github.io](https://seborgey.github.io/)). |
+| | |
 | **Агенты и ИИ-инструменты** | |
 | [AEGIS](https://github.com/SeBorgey/AEGIS) | Автономная мультиагентная система разработки GUI-приложений на Python/PySide6 (Manager, Coder, Judge). |
 | [AgenticTasker](https://github.com/SeBorgey/AgenticTasker) | Markdown-система ведения задач с промптами для AI-агентов (Claude Code) и Kanban-доской для Obsidian. |
